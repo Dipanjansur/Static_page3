@@ -8,7 +8,7 @@
  - took me around 1 hour to complete this page from scratch
 
  ## live link
- [LIVE LINK]("netlify")
+ [LIVE LINK](https://justice-static.netlify.app/)
 
  # RESULT
  ## my Result

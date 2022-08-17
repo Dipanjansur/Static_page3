@@ -2,10 +2,12 @@
     margin:0px;
     padding: 0px;
     box-sizing: border-box;
+    overflow-y:hidden;
 }
 body{
     background-color: #2b2922;
     font-family:"Red Rose";
+    
 }
 .navbar{
     display: flex;
